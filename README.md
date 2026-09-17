@@ -2,49 +2,48 @@
 
 ### Engineering Student | Python • C++ • JavaScript • Machine Learning
 
-I build software projects at the intersection of **engineering, simulation, data, and machine learning**. I enjoy taking technical ideas from a prototype to something structured, testable, and useful.
+I build software projects at the intersection of **simulation, data, systems, and machine learning**. I like turning technical ideas into structured, testable, and reproducible software.
 
-## 🚀 Featured Projects
+## 🔬 Currently Working On
 
-### 🔬 Ballistic Simulation Engine
-Physics-based numerical simulation engine for transient ballistic impact analysis and synthetic ML dataset generation.
+- Physics-based numerical simulation and synthetic dataset generation
+- Johnson-Cook and Cowper-Symonds constitutive models for impact simulation
+- Physics-Informed Neural Networks (PINNs) and surrogate modeling
+- High-throughput scientific computing with **Numba**
+
+## 🚀 Featured Project
+
+### [Ballistic Simulation Engine](https://github.com/utkarshd/Ballistic-Simulation-Engine)
+
+A high-speed, physics-based simulation engine for ballistic impact analysis and **physics-grounded ML dataset generation**.
 
 **Python · NumPy · SciPy · Numba · PyTorch · Parquet**
 
-- Nonlinear material and strain-rate models
-- Numerical ODE simulation
+- Nonlinear numerical simulation of transient impact physics
+- Dynamic material and strain-rate models
 - High-throughput synthetic data generation
-- PyTorch dataset pipeline for ML/PINN experimentation
-
-### ♟️ Chess Automation
-Automation and AI experiments around chess systems, decision-making, and game interaction.
-
-### 📊 Spotify Data Analysis
-Exploratory data analysis and visualization using Python and real-world API data.
+- PyTorch-ready dataset pipeline for ML/PINN experiments
 
 ## 🛠️ Tech Stack
 
 **Languages**  
-Python · C++ · Java · JavaScript
+Python · C++ · JavaScript · Java
 
 **Data / ML**  
 NumPy · Pandas · SciPy · PyTorch · Matplotlib
 
-**Tools**  
-Git · GitHub · Linux · VS Code
+**Systems / Tools**  
+Git · GitHub · Linux · VS Code · Numba
 
-## 🎯 What I'm Working Toward
+## 🎯 What I'm Building Toward
 
-I’m currently focused on becoming a stronger **software engineer**, especially in backend development, Python, systems, numerical computing, and machine learning.
+I’m focused on becoming a stronger **software engineer**, with particular interest in backend systems, Python, numerical computing, machine learning, and performance-oriented engineering.
 
-I care about writing clean code, understanding the underlying systems, and building projects that demonstrate real engineering ability rather than just following tutorials.
+I care about understanding how things work underneath the abstraction and building projects that demonstrate real engineering depth.
 
-## 📫 Connect
-
-- GitHub: [@utkarshdwivedi01-del](https://github.com/utkarshdwivedi01-del)
-- LinkedIn: 
-- Email: utkarshdwivedi14405@gmail.com
+📍 Lucknow, India  
+📫 [LinkedIn](https://www.linkedin.com/in/utkarsh-dwivedi-5938b23aa/) · utkarshdwivedi14405@bbdnitm.ac.in
 
 ---
 
-⭐ Check out my pinned repositories below for the projects I'm most proud of.
+⭐ Check out my pinned repositories for the projects I'm currently developing.
