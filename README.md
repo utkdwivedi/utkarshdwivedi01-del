@@ -13,7 +13,7 @@ I build software projects at the intersection of **simulation, data, systems, an
 
 ## 🚀 Featured Project
 
-### [Ballistic Simulation Engine](https://github.com/utkarshd/Ballistic-Simulation-Engine)
+### [Ballistic Simulation Engine](https://github.com/utkdwivedi/Ballistic-Simulation-Engine)
 
 A high-speed, physics-based simulation engine for ballistic impact analysis and **physics-grounded ML dataset generation**.
 
